@@ -21,7 +21,7 @@ const Home = () => {
                     <h2 className='font-semibold'>14K</h2>
                 </div>
                 <div className='absolute bg-white px-8 py-2 bottom-0 left-0 rounded-full'>
-                    <h2>Cappuccino</h2>
+                    <h2>Dadino coffee</h2>
                 </div>
             </div>
         </div>
